@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1454168539 source:d:\codeblock\swap\haondoi.cpp
-	<iostream>
-	<conio.h>
-	<stdlib.h>
-	<io.h>
-
