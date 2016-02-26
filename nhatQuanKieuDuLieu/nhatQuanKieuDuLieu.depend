@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1454170300 source:d:\codeblock\nhatquankieudulieu\congtrunhanchia.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<io.h>
+

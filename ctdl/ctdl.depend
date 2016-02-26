@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1454167682 source:d:\codeblock\ctdl\datastruct.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<io.h>
+
+1454168234 source:d:\codeblock\ctdl\swap.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<io.h>
+
